@@ -6,7 +6,7 @@ require (
 	github.com/PuerkitoBio/rehttp v1.0.0
 	github.com/aybabtme/iocontrol v0.0.0-20150809002002-ad15bcfc95a0 // indirect
 	github.com/benbjohnson/clock v1.0.3 // indirect
-	github.com/coreos/ignition/v2 v2.6.0
+	github.com/coreos/ignition/v2 v2.7.0
 	github.com/go-openapi/runtime v0.19.20
 	github.com/go-openapi/strfmt v0.19.8
 	github.com/golang/mock v1.4.4
@@ -25,7 +25,6 @@ require (
 	github.com/vincent-petithory/dataurl v0.0.0-20191104211930-d1553a71de50
 	golang.org/x/net v0.0.0-20200822124328-c89045814202
 	golang.org/x/sync v0.0.0-20201008141435-b3e1573b7520
-	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.18.6
 	k8s.io/apimachinery v0.18.6
 	k8s.io/client-go v12.0.0+incompatible
